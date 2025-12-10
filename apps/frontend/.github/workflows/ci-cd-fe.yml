@@ -3,7 +3,7 @@ name: FE CI/CD
 on:
   push:
     branches:
-      - main
+      - feat/cicd-fe
 
 jobs:
   build-and-push:
